@@ -1,0 +1,25 @@
+{
+  "pot_ranges": [
+    {
+      "min": 15,
+      "max": 26320,
+      "name": "Frequency"
+    },
+    {
+      "min": 3,
+      "max": 26335,
+      "name": "Volume"
+    },
+    {
+      "min": 4,
+      "max": 26333,
+      "name": "Waveform"
+    },
+    {
+      "min": 15,
+      "max": 26323,
+      "name": "Filter"
+    }
+  ],
+  "timestamp": "2025-07-18 08:09:22"
+}
