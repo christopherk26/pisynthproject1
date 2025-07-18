@@ -3,6 +3,8 @@
 A real-time polyphonic digital synthesizer built with Raspberry Pi Zero 2W, featuring MIDI keyboard support, analog potentiometer control, and professional audio output.
 
 
+![EAC475F7-88C7-426B-9F37-06A3A6A88A3F_4_5005_c](https://github.com/user-attachments/assets/42a479e8-d200-48b5-86c9-f7640da86326)
+![64F0C7C0-A48D-4447-BD38-17D3B1323C31_4_5005_c](https://github.com/user-attachments/assets/6a7ac3c4-1963-4489-88b2-4215d60484f0)
 
 ## Features
 
